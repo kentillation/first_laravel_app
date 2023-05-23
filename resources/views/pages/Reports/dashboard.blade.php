@@ -47,7 +47,7 @@
                         <table class="table table-hover text-center" id="table">
                             <thead class="text-bg-secondary">
                                 <tr>
-                                    <th>Name</th>
+                                    <th>NAME</th>
                                     <th>DESCRIPTION</th>
                                     <th>PRICE</th>
                                     <th>AVAILABILITY</th>
