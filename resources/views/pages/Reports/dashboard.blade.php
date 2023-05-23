@@ -51,7 +51,7 @@
                                     <th>DESCRIPTION</th>
                                     <th>PRICE</th>
                                     <th>AVAILABILITY</th>
-                                    <th>ACTION</th>
+                                    <th>Action</th>
                                 </tr>
                             </thead>
                             <tbody>
